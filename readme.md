@@ -23,6 +23,7 @@ The criteria for inclusion is very simple: the website is widely reference and c
 12. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
 13. [Ethernow](https://www.ethernow.xyz/mempool/all): Another site to see how blocks are getting made
 14. [KYCNOT ME](https://kycnot.me/): Find services that do not use KYC and their risk levels
+15. [Tx Street](https://txstreet.com/): Watch transactions as people taking a bus (block) live streamed to show normies that transactions are very real in Ethereum and not an abstract concept
 
 ## Note
 This list is made for me and definitely isn't authoritiative. I just want to store links somewhere lol
