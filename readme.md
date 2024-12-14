@@ -17,11 +17,12 @@ The criteria for inclusion is very simple: the website is widely reference and c
 8. [Client Diversity](https://clientdiversity.org/): Measures the diversity and dominance of various consensus and execution clients
 9. [Super majority risk](https://supermajority.info/): An alternate site to Client Diversity
 10. [Ultra Sound Money](https://ultrasound.money/): Measures Ethereum's issuance, relative valuation, and gas use
+11. [Optimism Ecosystem Wide Dashboard](https://community.optimism.io/welcome/faq/dashboard-trackers): List of dashboards used to track the various Optimism Ecosystem related metrics
 
 ## For Fun
-7. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
-8. [Ethernow](https://www.ethernow.xyz/mempool/all): Another site to see how blocks are getting made
-9. [KYCNOT ME](https://kycnot.me/): Find services that do not use KYC and their risk levels
+12. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
+13. [Ethernow](https://www.ethernow.xyz/mempool/all): Another site to see how blocks are getting made
+14. [KYCNOT ME](https://kycnot.me/): Find services that do not use KYC and their risk levels
 
 ## Note
 This list is made for me and definitely isn't authoritiative. I just want to store links somewhere lol
