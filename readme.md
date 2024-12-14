@@ -14,6 +14,9 @@ The criteria for inclusion is very simple: the website is widely reference and c
 5. [RWA](https://www.rwa.xyz/): This measures the RWA market size
 6. [Vaults](https://www.vaults.fyi/): Yields for tokens across the EVM
 7. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
+8. [Client Diversity](https://clientdiversity.org/): Measures the diversity and dominance of various consensus and execution clients
+9. [Super majority risk](https://supermajority.info/): An alternate site to Client Diversity
+10. [Ultra Sound Money](https://ultrasound.money/): Measures Ethereum's issuance, relative valuation, and gas use
 
 ## For Fun
 7. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
