@@ -8,11 +8,12 @@ The criteria for inclusion is very simple: the website is widely reference and c
 ## Main
 
 1. [L2Beat](https://l2beat.com/scaling/summary): This measures some growth metrics of L2s but most importantly measures the degree of decentralization on the L2
-2. [Vaults FYI](https://www.growthepie.xyz/): This contains the overall value that the L2s contains
-3. [Rollup](https://rollup.wtf/): This measures the throughput of a L2 chain
-4. [RWA](https://www.rwa.xyz/): This measures the RWA market size
-5. [Vaults](https://www.vaults.fyi/): Yields for tokens across the EVM
-6. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
+2. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
+3. [Vaults FYI](https://www.growthepie.xyz/): This contains the overall value that the L2s contains
+4. [Rollup](https://rollup.wtf/): This measures the throughput of a L2 chain
+5. [RWA](https://www.rwa.xyz/): This measures the RWA market size
+6. [Vaults](https://www.vaults.fyi/): Yields for tokens across the EVM
+7. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
 
 ## For Fun
 7. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
