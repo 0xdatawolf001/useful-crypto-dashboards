@@ -8,9 +8,9 @@ The criteria for inclusion is very simple: the website is widely reference and c
 ## Main
 
 1. [L2Beat](https://l2beat.com/scaling/summary): This measures some growth metrics of L2s but most importantly measures the degree of decentralization on the L2
-2. [Grow the Pie](https://www.growthepie.xyz/): More L2 specific information 
+2. [growthepie](https://www.growthepie.xyz/): Different high-level L2 metrics, L2 economics, DA metrics, as well as Blockspace analytics (a deeper look into how different chains are used)
 3. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
-4. [Vaults FYI](https://www.growthepie.xyz/): This contains the overall value that the L2s contains
+4. [Vaults FYI](https://www.vaults.fyi/): This contains the overall value that the L2s contains
 5. [Rollup](https://rollup.wtf/): This measures the throughput of a L2 chain
 6. [RWA](https://www.rwa.xyz/): This measures the RWA market size
 7. [Vaults](https://www.vaults.fyi/): Yields for tokens across the EVM
