@@ -1,6 +1,6 @@
-# List of Crypto Dashboards
+# List of (Niche) Crypto Dashboards
 
-This document saves the list of crypto dashboards and analytics sites that contain useful information about particular crypto products (chains, protocols etc)
+This document saves the list of crypto dashboards and analytics sites that contain useful information about particular crypto products (chains, protocols etc). They are typically a good mix of offchain data and therefore are not as commoditized; making them rarer than usual. This makes them worth saving! 
 
 ## Criteria on Inclusion
 The criteria for inclusion is very simple: the website is widely reference and contains important KPIs that sets the standard that the ecosystem as a whole should work towards. 
