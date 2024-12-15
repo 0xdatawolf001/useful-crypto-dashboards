@@ -8,17 +8,19 @@ The criteria for inclusion is very simple: the website is widely reference and c
 ## Main
 
 1. [L2Beat](https://l2beat.com/scaling/summary): This measures some growth metrics of L2s but most importantly measures the degree of decentralization on the L2
-2. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
-3. [Vaults FYI](https://www.growthepie.xyz/): This contains the overall value that the L2s contains
-4. [Rollup](https://rollup.wtf/): This measures the throughput of a L2 chain
-5. [RWA](https://www.rwa.xyz/): This measures the RWA market size
-6. [Vaults](https://www.vaults.fyi/): Yields for tokens across the EVM
-7. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
-8. [Client Diversity](https://clientdiversity.org/): Measures the diversity and dominance of various consensus and execution clients
-9. [Super majority risk](https://supermajority.info/): An alternate site to Client Diversity
-10. [Ultra Sound Money](https://ultrasound.money/): Measures Ethereum's issuance, relative valuation, and gas use
-11. [Optimism Ecosystem Wide Dashboard](https://community.optimism.io/welcome/faq/dashboard-trackers): List of dashboards used to track the various Optimism Ecosystem related metrics
-12. [Blue Chip](https://bluechip.org/): Tells you about the quality of stablecoins and other stats
+2. [Grow the Pie](https://www.growthepie.xyz/): More L2 specific information 
+3. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
+4. [Vaults FYI](https://www.growthepie.xyz/): This contains the overall value that the L2s contains
+5. [Rollup](https://rollup.wtf/): This measures the throughput of a L2 chain
+6. [RWA](https://www.rwa.xyz/): This measures the RWA market size
+7. [Vaults](https://www.vaults.fyi/): Yields for tokens across the EVM
+8. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
+9. [Client Diversity](https://clientdiversity.org/): Measures the diversity and dominance of various consensus and execution clients
+10. [Super majority risk](https://supermajority.info/): An alternate site to Client Diversity
+11. [Ultra Sound Money](https://ultrasound.money/): Measures Ethereum's issuance, relative valuation, and gas use
+12. [Optimism Ecosystem Wide Dashboard](https://community.optimism.io/welcome/faq/dashboard-trackers): List of dashboards used to track the various Optimism Ecosystem related metrics
+13. [Blue Chip](https://bluechip.org/): Tells you about the quality of stablecoins and other stats
+14. [Order Flow Art](https://orderflow.art/?isOrderflow=true): Shows how orders are flowing from wallets (frontend) to mempools then builders
 
 ## For Fun
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
