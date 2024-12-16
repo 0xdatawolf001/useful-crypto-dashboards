@@ -23,6 +23,9 @@ The criteria for inclusion is very simple: the website is widely reference and c
 14. [Order Flow Art](https://orderflow.art/?isOrderflow=true): Shows how orders are flowing from wallets (frontend) to mempools then builders
 15. [Bundle Bear](https://www.bundlebear.com/overview/all): All sort of Account Abstraction related data by 0xKofi
 16. [ETH Neturality Watch](https://eth.neutralitywatch.com/): Contains metrics that determine the Neutrality of ETH (censors)
+17. [VaNOM: Lido on Ethereum Validator and Nodes](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/): Shows statistics about Lido related nodes, clients, and infra
+18. [Visa x Allium Stablecoin Dashboard](https://visaonchainanalytics.com/): Visa onchain analytics dashboards
+19. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
 
 ## For Fun
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
