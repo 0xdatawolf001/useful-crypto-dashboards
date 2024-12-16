@@ -22,6 +22,7 @@ The criteria for inclusion is very simple: the website is widely reference and c
 13. [Blue Chip](https://bluechip.org/): Tells you about the quality of stablecoins and other stats
 14. [Order Flow Art](https://orderflow.art/?isOrderflow=true): Shows how orders are flowing from wallets (frontend) to mempools then builders
 15. [Bundle Bear](https://www.bundlebear.com/overview/all): All sort of Account Abstraction related data by 0xKofi
+16. [ETH Neturality Watch](https://eth.neutralitywatch.com/): Contains metrics that determine the Neutrality of ETH (censors)
 
 ## For Fun
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
