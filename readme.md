@@ -44,6 +44,10 @@ Note that the list and categories aren't the most granular or MECE in the world 
 ### General Purpose
 1. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
 
+### Data Enhancement and Enrichment
+1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. (Powered by 
+2. [Wallet Labels](https://www.walletlabels.xyz/): Establishing open standards for on-chain labelling and making crypto addresses informative and user-friendly
+
 ## For Fun
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
 2. [Ethernow](https://www.ethernow.xyz/mempool/all): Another site to see how blocks are getting made
