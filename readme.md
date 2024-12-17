@@ -7,6 +7,7 @@ The criteria for inclusion is very simple: the website is widely reference and c
 I avoid adding:
 - Community curated dashboards
 - Block explorers and scanners
+- Direct data providers
 
 Note that the list and categories aren't the most granular or MECE in the world but I'll adjust it on the fly where it gets messy
 
