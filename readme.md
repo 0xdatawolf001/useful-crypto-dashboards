@@ -19,7 +19,11 @@ Note that the list and categories aren't the most granular or MECE in the world 
 
 ### Defi
 1. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
-2. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
+
+
+### AI
+1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
+2. [Sentient Market Cap](https://www.sentientmarketcap.com/): Shows price statistics of AI Agents, Virtuals Protocol, and AI16Z
 
 ### RWA and Stablecoins
 1. [Vaults FYI](https://www.vaults.fyi/): This contains the overall value that the L2s contains
