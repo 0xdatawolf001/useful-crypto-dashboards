@@ -31,6 +31,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 3. [Blue Chip](https://bluechip.org/): Tells you about the quality of stablecoins and other stats
 4. [Visa x Allium Stablecoin Dashboard](https://visaonchainanalytics.com/): Visa onchain analytics dashboards
 5. [Sphere by Block Analitica](https://sphere.blockanalitica.com/): See stablecoin yields across the ecosystem
+6. [Stablecoins Map by Artemis](https://www.stablecoinsmap.com/): A high level map of the companies invovlved in the stablecoin ecosystem
  
 ### Governance
 1. [Tally](https://www.tally.xyz/explore): Explore various governance proposals at the moment
