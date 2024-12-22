@@ -20,7 +20,6 @@ Note that the list and categories aren't the most granular or MECE in the world 
 ### Defi
 1. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
 
-
 ### AI
 1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
 2. [Sentient Market Cap](https://www.sentientmarketcap.com/): Shows price statistics of AI Agents, Virtuals Protocol, and AI16Z
@@ -36,6 +35,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 ### Governance
 1. [Tally](https://www.tally.xyz/explore): Explore various governance proposals at the moment
 2. [Snapshot](https://snapshot.box/#/explore): Another tool to see governance proposals
+3. [EIP Tools](https://eip.tools/): See EIP discussions at a glance
 
 ### Blockchain Related
 1. [Client Diversity](https://clientdiversity.org/): Measures the diversity and dominance of various consensus and execution clients
