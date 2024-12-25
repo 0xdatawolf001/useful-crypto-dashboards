@@ -53,7 +53,10 @@ Note that the list and categories aren't the most granular or MECE in the world 
 
 ### Data Enhancement and Enrichment
 1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. (Powered by 
-2. [Wallet Labels](https://www.walletlabels.xyz/): Establishing open standards for on-chain labelling and making crypto addresses informative and user-friendly
+
+### Specialized APIs
+1. [Wallet Labels](https://www.walletlabels.xyz/): Establishing open standards for on-chain labelling and making crypto addresses informative and user-friendly
+2. [Noves](https://www.noves.fi/): Retrieve, deliver, and translate raw blockchain data into meaningful, human-readable information.
 
 ### Risk
 1. [LlamaRisk](https://portal.llamarisk.com/): Various DeFi risk monitoring dashboards 
