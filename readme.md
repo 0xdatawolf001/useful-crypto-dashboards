@@ -51,6 +51,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
     
 ### General Purpose
 1. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
+2. [DePIN Ninja](https://depin.ninja/): An ecosystem level metrics view of various DePIN projects (e.g revenue)
 
 ### Data Enhancement and Enrichment
 1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. (Powered by 
