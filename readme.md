@@ -63,11 +63,12 @@ Note that the list and categories aren't the most granular or MECE in the world 
 ### Risk
 1. [LlamaRisk](https://portal.llamarisk.com/): Various DeFi risk monitoring dashboards 
 
-## For Fun
+## For Fun (Others)
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
 2. [Ethernow](https://www.ethernow.xyz/mempool/all): Another site to see how blocks are getting made
 3. [KYCNOT ME](https://kycnot.me/): Find services that do not use KYC and their risk levels
 4. [Tx Street](https://txstreet.com/): Watch transactions as people taking a bus (block) live streamed to show normies that transactions are very real in Ethereum and not an abstract concept
+5. [Artificial Analysis](https://artificialanalysis.ai/): Shows the cost/performance trade off at a glance for LLM models
 
 ## Note
 This list is made for me and definitely isn't authoritiative. I just want to store links somewhere lol
