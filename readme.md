@@ -16,6 +16,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 1. [L2Beat](https://l2beat.com/scaling/summary): This measures some growth metrics of L2s but most importantly measures the degree of decentralization on the L2
 2. [growthepie](https://www.growthepie.xyz/): Different high-level L2 metrics, L2 economics, DA metrics, as well as Blockspace analytics (a deeper look into how different chains are used)
 3. [Rollup](https://rollup.wtf/): This measures the throughput of a L2 chain
+4. [OP Superchain](https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/d28726b2-ff11-4f94-8a9f-6bb0a86f4b46/latest?tab=select-industry-benchmarks): An OP curated chain wide benchmarks
 
 ### Defi
 1. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
