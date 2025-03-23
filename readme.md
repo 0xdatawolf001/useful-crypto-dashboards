@@ -30,10 +30,11 @@ Note that the list and categories aren't the most granular or MECE in the world 
 1. [Vaults FYI](https://www.vaults.fyi/): This contains the overall value that the L2s contains
 2. [RWA](https://www.rwa.xyz/): This measures the RWA market size
 3. [Blue Chip](https://bluechip.org/): Tells you about the quality of stablecoins and other stats
-4. [Visa x Allium Stablecoin Dashboard](https://visaonchainanalytics.com/): Visa onchain analytics dashboards
+4. [Visa x Allium Stablecoin Dashboard](https://visaonchainanalytics.com/): Visa on-chain analytics dashboards
 5. [Sphere by Block Analitica](https://sphere.blockanalitica.com/): See stablecoin yields across the ecosystem
-6. [Stablecoins Map by Artemis](https://www.stablecoinsmap.com/): A high level map of the companies invovlved in the stablecoin ecosystem
+6. [Stablecoins Map by Artemis](https://www.stablecoinsmap.com/): A high level map of the companies involved in the stablecoin ecosystem
 7. [USDC.cool](https://usdc.cool/): A page to track issued USDC across chains
+8. [Stablecoin Earth](https://stablecoins.earth/): A literal map of stablecoins issued by country and some statistics
  
 ### Governance
 1. [Tally](https://www.tally.xyz/explore): Explore various governance proposals at the moment
