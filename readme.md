@@ -35,7 +35,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 6. [Stablecoins Map by Artemis](https://www.stablecoinsmap.com/): A high level map of the companies involved in the stablecoin ecosystem
 7. [USDC.cool](https://usdc.cool/): A page to track issued USDC across chains
 8. [Stablecoin Earth](https://stablecoins.earth/): A literal map of stablecoins issued by country and some statistics
-9. [Earnbase](https://earnbase.finance/): A list of stablecoin yield opportunities on Base
+9. [Earnbase](https://earnbase.finance/): A list of stablecoin yield opportunities by displaying base APY rates instead of rates with other rewards
  
 ### Governance
 1. [Tally](https://www.tally.xyz/explore): Explore various governance proposals at the moment
