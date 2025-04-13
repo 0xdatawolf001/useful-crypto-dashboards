@@ -20,6 +20,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 
 ### Defi
 1. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
+2. [FurtherMore](https://furthermore.app/): An aggregated page of Berachain related yields
 
 ### AI
 1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
@@ -41,6 +42,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 1. [Tally](https://www.tally.xyz/explore): Explore various governance proposals at the moment
 2. [Snapshot](https://snapshot.box/#/explore): Another tool to see governance proposals
 3. [EIP Tools](https://eip.tools/): See EIP discussions at a glance
+4. [x23](https://app.x23.ai/arbitrum): Summarizes governance related discussions at glance
 
 ### Blockchain Related
 1. [Client Diversity](https://clientdiversity.org/): Measures the diversity and dominance of various consensus and execution clients
@@ -56,6 +58,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 1. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
 2. [DePIN Ninja](https://depin.ninja/): An ecosystem level metrics view of various DePIN projects (e.g revenue)
 3. [DePIN Scan](https://depinscan.io/): Comprehensive view of DePIN project across various chains and their categories where they operate in
+4. [RootData](https://rootdata.com): Find trending crypto projects
 
 ### Data Enhancement and Enrichment
 1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. (Powered by 
