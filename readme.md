@@ -21,6 +21,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 ### Defi
 1. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
 2. [FurtherMore](https://furthermore.app/): An aggregated page of Berachain related yields
+3. [Oracle Wars](https://www.oraclewars.xyz/): A great visualization of various oracle performance by an independent organization
 
 ### AI
 1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
@@ -69,7 +70,8 @@ Note that the list and categories aren't the most granular or MECE in the world 
 2. [Noves](https://www.noves.fi/): Retrieve, deliver, and translate raw blockchain data into meaningful, human-readable information.
 
 ### Risk
-1. [LlamaRisk](https://portal.llamarisk.com/): Various DeFi risk monitoring dashboards 
+1. [LlamaRisk](https://portal.llamarisk.com/): Various DeFi risk monitoring dashboards
+2. [The Credora Network](https://ratings.credora.network): A Moody’s-like rating using tradfi methodology to quantify the risk of predominantly, but not only, Morpho Vaults  
 
 ## For Fun (Others)
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
