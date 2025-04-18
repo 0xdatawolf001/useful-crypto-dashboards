@@ -40,7 +40,6 @@ Note that the list and categories aren't the most granular or MECE in the world 
 8. [Stablecoin Earth](https://stablecoins.earth/): A literal map of stablecoins issued by country and some statistics
 9. [Earnbase](https://earnbase.finance/): A list of stablecoin yield opportunities by displaying base APY rates instead of rates with other rewards
 10. [StableWatch](https://www.stablewatch.io/): Captures the critical intersection between traditional financial systems and stablecoins
-11. 
  
 ### Governance
 1. [Tally](https://www.tally.xyz/explore): Explore various governance proposals at the moment
@@ -57,6 +56,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 6. [Bundle Bear](https://www.bundlebear.com/overview/all): All sort of Account Abstraction related data by 0xKofi
 7. [ETH Neturality Watch](https://eth.neutralitywatch.com/): Contains metrics that determine the Neutrality of ETH (censors)
 8. [VaNOM: Lido on Ethereum Validator and Nodes](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/): Shows statistics about Lido related nodes, clients, and infra
+9. [Kairos](https://kairos-timeboost.xyz/): See auction winners in Arbitrum's timeboost
     
 ### General Purpose
 1. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
