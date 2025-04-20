@@ -22,6 +22,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 1. [DefiScan](https://www.defiscan.info/): Something like L2 beat but for protocols
 2. [FurtherMore](https://furthermore.app/): An aggregated page of Berachain related yields
 3. [Oracle Wars](https://www.oraclewars.xyz/): A great visualization of various oracle performance by an independent organization
+4. [Furthermore](https://furthermore.app/): A place to see Berachain related yields
 
 ### AI
 1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
