@@ -60,6 +60,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 9. [Kairos](https://kairos-timeboost.xyz/): See auction winners in Arbitrum's timeboost
 10. [Ethereum Adoption](https://ethereumadoption.com/): Show stats especially economic activity on Ethereum
 11. [Ethereum Dashobards](https://ethereumdashboards.com/): Shows list of other dashboards about Ethereum
+12. [Strategic ETH Reserve](https://www.strategicethreserve.xyz/): See ETH in the treasuries of companies
     
 ### General Purpose
 1. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
