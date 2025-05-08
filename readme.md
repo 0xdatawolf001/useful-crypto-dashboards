@@ -64,6 +64,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 11. [Ethereum Dashobards](https://ethereumdashboards.com/): Shows list of other dashboards about Ethereum
 12. [Strategic ETH Reserve](https://www.strategicethreserve.xyz/): See ETH in the treasuries of companies
 13. [Tera Gas](https://teragas.wtf/): Provides real-time insights into Ethereum perfnet performance, enabling users to optimize node operations and improve network efficiency through data-driven adjustments.
+14. [Firedancer](https://fd-mainnet.stakingfacilities.com/): Look at the status of transactions on how they flow in Solana
     
 ### General Purpose
 1. [DefiLlama](https://defillama.com/): General purpose analytics site to find TVL related data and changes
