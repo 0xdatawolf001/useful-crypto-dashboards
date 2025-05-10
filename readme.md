@@ -92,6 +92,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 5. [Artificial Analysis](https://artificialanalysis.ai/): Shows the cost/performance trade off at a glance for LLM models
 6. [DISARM](https://disarmframework.herokuapp.com/): Framework to spread and defend against disinformation.
 7. [DOGE Tracker](https://www.doge-tracker.com/): Tracks DOGE's ability to save on Taxpayers expenditure
+8. [Developer Repory](https://www.developerreport.com/): Shows stats of blockchain devs around the world
 
 ## Note
 This list is made for me and definitely isn't authoritiative. I just want to store links somewhere lol
