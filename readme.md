@@ -72,6 +72,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 2. [DePIN Ninja](https://depin.ninja/): An ecosystem level metrics view of various DePIN projects (e.g revenue)
 3. [DePIN Scan](https://depinscan.io/): Comprehensive view of DePIN project across various chains and their categories where they operate in
 4. [RootData](https://rootdata.com): Find trending crypto projects
+5. [DAO Deals](https://www.daodeals.fyi/market-maker-deals): Shows Market Maker Deals by DAOs
 
 ### Data Enhancement and Enrichment
 1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. (Powered by 
