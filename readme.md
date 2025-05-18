@@ -31,6 +31,8 @@ Note that the list and categories aren't the most granular or MECE in the world 
 3. [AI Marketplace](https://arjux.com/marketplace/): See AI agents at a glance on Base
 4. [MCP Registry Registry](https://mastra.ai/mcp-registry-registry): A registry of MCP registries
 5. [Tao](https://www.tao.app/explorer): Discover and track subnets performance in Bittensor
+6. [backprop](https://backprop.finance/screener): See token values and trading stats that are on Bittensor
+7. [Tao XYZ](https://tao.xyz/): Contains more granular data on tokens traded on Bittensor
 
 ### RWA and Stablecoins
 1. [Vaults FYI](https://www.vaults.fyi/): This contains the overall value that the L2s contains
@@ -75,7 +77,8 @@ Note that the list and categories aren't the most granular or MECE in the world 
 5. [DAO Deals](https://www.daodeals.fyi/market-maker-deals): Shows Market Maker Deals by DAOs
 
 ### Data Enhancement and Enrichment
-1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community. (Powered by 
+1. [Open Labels](https://openlabelsinitiative.org/): This initiative tackles the issue of isolated and non-standardized datasets of address labels within the blockchain community.
+2. [Believe](https://www.believescreener.com/): Contains stats on tokens launched on Believe
 
 ### Specialized APIs
 1. [Wallet Labels](https://www.walletlabels.xyz/): Establishing open standards for on-chain labelling and making crypto addresses informative and user-friendly
