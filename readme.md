@@ -33,6 +33,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 5. [Tao](https://www.tao.app/explorer): Discover and track subnets performance in Bittensor
 6. [backprop](https://backprop.finance/screener): See token values and trading stats that are on Bittensor
 7. [Tao XYZ](https://tao.xyz/): Contains more granular data on tokens traded on Bittensor
+8. [Dynamic TAO](https://dynamictaomarketcap.com/): Yet another bittensor dashboard but its easier to see the project's activity instead of just token prices
 
 ### RWA and Stablecoins
 1. [Vaults FYI](https://www.vaults.fyi/): This contains the overall value that the L2s contains
