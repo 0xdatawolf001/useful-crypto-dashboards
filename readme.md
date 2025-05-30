@@ -24,6 +24,7 @@ Note that the list and categories aren't the most granular or MECE in the world 
 3. [Oracle Wars](https://www.oraclewars.xyz/): A great visualization of various oracle performance by an independent organization
 4. [Furthermore](https://furthermore.app/): A place to see Berachain related yields
 5. [Uniswap V4](https://www.v4.xyz/): See data on Uniswap v4 usage and assets
+6. [Orderbook.wtf](https://www.orderbook.wtf/): See uniswap LPs in an orderbook format
 
 ### AI
 1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
