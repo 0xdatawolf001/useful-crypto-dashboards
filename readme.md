@@ -88,7 +88,10 @@ Note that the list and categories aren't the most granular or MECE in the world 
 
 ### Risk
 1. [LlamaRisk](https://portal.llamarisk.com/): Various DeFi risk monitoring dashboards
-2. [The Credora Network](https://ratings.credora.network): A Moody’s-like rating using tradfi methodology to quantify the risk of predominantly, but not only, Morpho Vaults  
+2. [The Credora Network](https://ratings.credora.network): A Moody’s-like rating using tradfi methodology to quantify the risk of predominantly, but not only, Morpho Vaults
+
+### Curated Dashboards (Dune like dashboards but are not indexed because they are self-hosted)
+1. [Gauntlet's Uniswap](https://app.hex.tech/a22e666c-4bc7-40d3-93ed-45a25554a14e/app/0195f2d2-cd19-7007-9b8e-adb49d1483de/latest)
 
 ## For Fun (Others)
 1. [Sorella](https://sorellalabs.xyz/dashboard): Get motion sickness from seeing how blocks get made
