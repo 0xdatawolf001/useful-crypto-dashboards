@@ -30,11 +30,12 @@ Note that the list and categories aren't the most granular or MECE in the world 
 1. [Cookie Fun](https://www.cookie.fun/): An index and collection of metrics that measures the state of AI Agents
 2. [Sentient Market Cap](https://www.sentientmarketcap.com/): Shows price statistics of AI Agents, Virtuals Protocol, and AI16Z
 3. [AI Marketplace](https://arjux.com/marketplace/): See AI agents at a glance on Base
-4. [MCP Registry Registry](https://mastra.ai/mcp-registry-registry): A registry of MCP registries
-5. [Tao](https://www.tao.app/explorer): Discover and track subnets performance in Bittensor
-6. [backprop](https://backprop.finance/screener): See token values and trading stats that are on Bittensor
-7. [Tao XYZ](https://tao.xyz/): Contains more granular data on tokens traded on Bittensor
-8. [Dynamic TAO](https://dynamictaomarketcap.com/): Yet another bittensor dashboard but its easier to see the project's activity instead of just token prices
+4. [Chartscout](https://chartscout.io/): Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
+5. [MCP Registry Registry](https://mastra.ai/mcp-registry-registry): A registry of MCP registries
+6. [Tao](https://www.tao.app/explorer): Discover and track subnets performance in Bittensor
+7. [backprop](https://backprop.finance/screener): See token values and trading stats that are on Bittensor
+8. [Tao XYZ](https://tao.xyz/): Contains more granular data on tokens traded on Bittensor
+9. [Dynamic TAO](https://dynamictaomarketcap.com/): Yet another bittensor dashboard but its easier to see the project's activity instead of just token prices
 
 ### RWA and Stablecoins
 1. [Vaults FYI](https://www.vaults.fyi/): This contains the overall value that the L2s contains
